@@ -338,6 +338,8 @@ strong { color: var(--green-deep); font-weight: 700; }
 .footer-nav a { color: rgba(245,243,236,.8); font-size: .96rem; transition: color .3s, padding-left .3s; }
 .footer-nav a:hover { color: #fff; padding-left: 5px; }
 .footer-contact p { font-size: .95rem; margin-bottom: 8px; color: rgba(245,243,236,.8); }
+.footer-contact a { color: #fff; text-decoration: underline; text-underline-offset: 3px; transition: color .3s; }
+.footer-contact a:hover { color: var(--wood); }
 .footer-bottom { border-top: 1px solid rgba(245,243,236,.16); padding: 22px 0; text-align: center; }
 .footer-bottom p { font-size: .88rem; color: rgba(245,243,236,.66); }
 .footer-bottom .fine { margin-top: 6px; font-size: .8rem; opacity: .8; }
